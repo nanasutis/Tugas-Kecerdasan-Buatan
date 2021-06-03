@@ -5,4 +5,5 @@ Nama: Nana Sutisna
 <br>Mata Kuliah : Kecerdasan Buatan
 <br>Catatan : Decision Tree merupakan model algoritma klasifikasi yang paling sederhana untuk digunakan.  Decision Tree juga merupakan kelompok supervised learning artinya sebuah konsep dengan pembelajaran yang terbimbing dan biasanya ditandai dengan adanya class atau label 
 sehingga dapat digunakan untuk melakukan prediksi. Dalam kasus ini adalah akan diselesaikan sebuah permasalahan dalam memprediksi tingkat keberhasilan siswa. Tingkat akurasi setelah dilakukan <i>performance</i> ditampilkan dalam bentuk grafik. <i>Tools</i> yang digunakan adalah bahasa pemrograman Python dengan lingkungan Jupyter Notebook.
-<br>Referensi: https://osf.io/pvq6b/download
+<br>Referensi: J. Eckroth, Python Artifical Intelegence Projects for Beginners, 2018th ed. Pack 
+Publishing, 2018
